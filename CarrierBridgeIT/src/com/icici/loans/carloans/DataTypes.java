@@ -2,6 +2,12 @@ package com.icici.loans.carloans;
 
 public class DataTypes 
 {
+	public void add()
+	{
+	   int x,y,z;
+	   z=x+y;
+	}
+	
 	byte b;  // 1 byte
 	short s;  // 2 bytes
 	int i; // 4 bytes
